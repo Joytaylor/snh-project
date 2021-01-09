@@ -68,8 +68,8 @@
     {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"b8d4edaf-7982-46cf-8ee4-dd1309cdda5b","tags":[],"resourceType":"GMImageLayer",},
   ],
   "parent": {
-    "name": "Items_PixelPackTOPDOWN8BIT",
-    "path": "folders/Sprites/Items_PixelPackTOPDOWN8BIT.yy",
+    "name": "items",
+    "path": "folders/Sprites/items.yy",
   },
   "resourceVersion": "1.0",
   "name": "item8BIT_glove",

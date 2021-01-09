@@ -68,8 +68,8 @@
     {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"1b96159e-403d-4db7-9a7a-1a9390ee9004","tags":[],"resourceType":"GMImageLayer",},
   ],
   "parent": {
-    "name": "Adventurer",
-    "path": "folders/Sprites/Heros_PixelPackTOPDOWN8BIT/Adventurer.yy",
+    "name": "heros",
+    "path": "folders/Sprites/heros.yy",
   },
   "resourceVersion": "1.0",
   "name": "HEROS_PixelPackTOPDOWN8BIT_Adventurer_Idle_R",

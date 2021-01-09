@@ -72,8 +72,8 @@
     {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"a2ee0236-5d14-4fd0-8bd4-7a25da86e870","tags":[],"resourceType":"GMImageLayer",},
   ],
   "parent": {
-    "name": "Doggo",
-    "path": "folders/Sprites/Heros_PixelPackTOPDOWN8BIT/Doggo.yy",
+    "name": "heros",
+    "path": "folders/Sprites/heros.yy",
   },
   "resourceVersion": "1.0",
   "name": "HEROS_PixelPackTOPDOWN8BIT_Dog_Attack_R",

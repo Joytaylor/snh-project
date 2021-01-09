@@ -68,8 +68,8 @@
     {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"29d34063-4e61-4292-95dc-04f5d1e0ae47","tags":[],"resourceType":"GMImageLayer",},
   ],
   "parent": {
-    "name": "Doggo",
-    "path": "folders/Sprites/Heros_PixelPackTOPDOWN8BIT/Doggo.yy",
+    "name": "heros",
+    "path": "folders/Sprites/heros.yy",
   },
   "resourceVersion": "1.0",
   "name": "HEROS_PixelPackTOPDOWN8BIT_Dog_Idle_R",

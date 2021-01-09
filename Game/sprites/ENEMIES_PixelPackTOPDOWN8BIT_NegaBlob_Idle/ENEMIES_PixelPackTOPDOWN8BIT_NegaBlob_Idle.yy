@@ -68,8 +68,8 @@
     {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"3aafa6ed-fc6e-4ef6-98df-eae779b18bbd","tags":[],"resourceType":"GMImageLayer",},
   ],
   "parent": {
-    "name": "NegaBlob",
-    "path": "folders/Sprites/Enemies_PixelPackTOPDOWN8BIT/NegaBlob.yy",
+    "name": "enemies",
+    "path": "folders/Sprites/enemies.yy",
   },
   "resourceVersion": "1.0",
   "name": "ENEMIES_PixelPackTOPDOWN8BIT_NegaBlob_Idle",

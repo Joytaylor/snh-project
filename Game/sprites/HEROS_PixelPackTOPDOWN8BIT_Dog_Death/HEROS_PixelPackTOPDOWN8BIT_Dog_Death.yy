@@ -72,8 +72,8 @@
     {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"8d9ab185-fe46-4e70-81ac-ee31bf56ac3d","tags":[],"resourceType":"GMImageLayer",},
   ],
   "parent": {
-    "name": "Doggo",
-    "path": "folders/Sprites/Heros_PixelPackTOPDOWN8BIT/Doggo.yy",
+    "name": "heros",
+    "path": "folders/Sprites/heros.yy",
   },
   "resourceVersion": "1.0",
   "name": "HEROS_PixelPackTOPDOWN8BIT_Dog_Death",

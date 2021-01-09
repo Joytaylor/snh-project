@@ -68,8 +68,8 @@
     {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"5b50dfc9-1a5f-42cf-a30a-1800fe3c11c4","tags":[],"resourceType":"GMImageLayer",},
   ],
   "parent": {
-    "name": "Items_PixelPackTOPDOWN8BIT",
-    "path": "folders/Sprites/Items_PixelPackTOPDOWN8BIT.yy",
+    "name": "items",
+    "path": "folders/Sprites/items.yy",
   },
   "resourceVersion": "1.0",
   "name": "item8BIT_potion",

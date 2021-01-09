@@ -68,8 +68,8 @@
     {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"d9874901-1113-4f1a-aa16-c7b90c866ed3","tags":[],"resourceType":"GMImageLayer",},
   ],
   "parent": {
-    "name": "Items_PixelPackTOPDOWN8BIT",
-    "path": "folders/Sprites/Items_PixelPackTOPDOWN8BIT.yy",
+    "name": "items",
+    "path": "folders/Sprites/items.yy",
   },
   "resourceVersion": "1.0",
   "name": "item8BIT_floppydisk",

@@ -80,8 +80,8 @@
     {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"40963daf-2176-4ef7-a68f-595fbac7a585","tags":[],"resourceType":"GMImageLayer",},
   ],
   "parent": {
-    "name": "Sorcerer",
-    "path": "folders/Sprites/Enemies_PixelPackTOPDOWN8BIT/Sorcerer.yy",
+    "name": "enemies",
+    "path": "folders/Sprites/enemies.yy",
   },
   "resourceVersion": "1.0",
   "name": "ENEMIES_PixelPackTOPDOWN8BIT_Sorcerer_Walk_D",

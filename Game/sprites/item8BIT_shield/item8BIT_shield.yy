@@ -68,8 +68,8 @@
     {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"7301037d-55c5-4367-8ba2-cea17539d47c","tags":[],"resourceType":"GMImageLayer",},
   ],
   "parent": {
-    "name": "Items_PixelPackTOPDOWN8BIT",
-    "path": "folders/Sprites/Items_PixelPackTOPDOWN8BIT.yy",
+    "name": "items",
+    "path": "folders/Sprites/items.yy",
   },
   "resourceVersion": "1.0",
   "name": "item8BIT_shield",

@@ -76,8 +76,8 @@
     {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"9c217c70-120a-4800-a31b-65d47cb6a846","tags":[],"resourceType":"GMImageLayer",},
   ],
   "parent": {
-    "name": "Sorcerer",
-    "path": "folders/Sprites/Enemies_PixelPackTOPDOWN8BIT/Sorcerer.yy",
+    "name": "enemies",
+    "path": "folders/Sprites/enemies.yy",
   },
   "resourceVersion": "1.0",
   "name": "ENEMIES_PixelPackTOPDOWN8BIT_Sorcerer_Attack_R",

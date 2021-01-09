@@ -68,8 +68,8 @@
     {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"9f6c4542-a218-4f9a-a63b-31676a9848d8","tags":[],"resourceType":"GMImageLayer",},
   ],
   "parent": {
-    "name": "Items_PixelPackTOPDOWN8BIT",
-    "path": "folders/Sprites/Items_PixelPackTOPDOWN8BIT.yy",
+    "name": "items",
+    "path": "folders/Sprites/items.yy",
   },
   "resourceVersion": "1.0",
   "name": "item8BIT_skullkey",

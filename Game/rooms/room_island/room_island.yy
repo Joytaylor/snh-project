@@ -14,7 +14,7 @@
   ],
   "layers": [
     {"instances":[],"visible":true,"depth":0,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"gridX":16,"gridY":16,"layers":[],"hierarchyFrozen":false,"resourceVersion":"1.0","name":"Instances","tags":[],"resourceType":"GMRInstanceLayer",},
-    {"tilesetId":{"name":"til_PixelPackTOPDOWN8BIT_Tileset","path":"tilesets/til_PixelPackTOPDOWN8BIT_Tileset/til_PixelPackTOPDOWN8BIT_Tileset.yy",},"x":0,"y":0,"tiles":{"SerialiseWidth":24,"SerialiseHeight":24,"TileSerialiseData":[
+    {"tilesetId":{"name":"","path":"",},"x":0,"y":0,"tiles":{"SerialiseWidth":24,"SerialiseHeight":24,"TileSerialiseData":[
 236,236,236,236,236,236,236,236,236,236,236,236,236,236,236,236,236,236,236,236,236,236,236,236,
 6,7,236,236,236,236,141,142,142,142,142,142,143,236,236,236,236,236,236,236,236,236,236,8,
 22,23,6,7,8,6,189,59,94,94,94,60,191,6,7,141,142,142,142,142,142,143,8,24,
@@ -68,8 +68,8 @@
     "PhysicsWorldPixToMetres": 0.1,
   },
   "parent": {
-    "name": "rooms_PixelPackTOPDOWN8BIT",
-    "path": "folders/Rooms/rooms_PixelPackTOPDOWN8BIT.yy",
+    "name": "Rooms",
+    "path": "folders/Rooms.yy",
   },
   "resourceVersion": "1.0",
   "name": "room_island",

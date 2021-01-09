@@ -76,8 +76,8 @@
     {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"b2c956aa-652f-40f6-9e92-d98919d3b05a","tags":[],"resourceType":"GMImageLayer",},
   ],
   "parent": {
-    "name": "Princess",
-    "path": "folders/Sprites/Heros_PixelPackTOPDOWN8BIT/Princess.yy",
+    "name": "heros",
+    "path": "folders/Sprites/heros.yy",
   },
   "resourceVersion": "1.0",
   "name": "HEROS_PixelPackTOPDOWN8BIT_Princess_Push_U",

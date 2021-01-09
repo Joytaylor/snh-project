@@ -68,8 +68,8 @@
     {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"dae10270-60a2-4c51-9315-4294139b33c8","tags":[],"resourceType":"GMImageLayer",},
   ],
   "parent": {
-    "name": "Blob",
-    "path": "folders/Sprites/Enemies_PixelPackTOPDOWN8BIT/Blob.yy",
+    "name": "enemies",
+    "path": "folders/Sprites/enemies.yy",
   },
   "resourceVersion": "1.0",
   "name": "ENEMIES_PixelPackTOPDOWN8BIT_Blob_Idle",

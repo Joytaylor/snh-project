@@ -72,8 +72,8 @@
     {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"6305955b-7088-43f1-8d43-f4a34612d33d","tags":[],"resourceType":"GMImageLayer",},
   ],
   "parent": {
-    "name": "Princess",
-    "path": "folders/Sprites/Heros_PixelPackTOPDOWN8BIT/Princess.yy",
+    "name": "heros",
+    "path": "folders/Sprites/heros.yy",
   },
   "resourceVersion": "1.0",
   "name": "HEROS_PixelPackTOPDOWN8BIT_Princess_Attack_R",

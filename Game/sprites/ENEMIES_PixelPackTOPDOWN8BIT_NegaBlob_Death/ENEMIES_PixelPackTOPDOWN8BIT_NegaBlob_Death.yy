@@ -76,8 +76,8 @@
     {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"36337ac1-8b76-4374-a649-d521f86fbb3e","tags":[],"resourceType":"GMImageLayer",},
   ],
   "parent": {
-    "name": "NegaBlob",
-    "path": "folders/Sprites/Enemies_PixelPackTOPDOWN8BIT/NegaBlob.yy",
+    "name": "enemies",
+    "path": "folders/Sprites/enemies.yy",
   },
   "resourceVersion": "1.0",
   "name": "ENEMIES_PixelPackTOPDOWN8BIT_NegaBlob_Death",
