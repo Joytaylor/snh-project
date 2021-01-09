@@ -68,8 +68,8 @@
     {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"2e1637b5-e01e-4caf-86b2-7cdc0848ed62","tags":[],"resourceType":"GMImageLayer",},
   ],
   "parent": {
-    "name": "ChessPieces",
-    "path": "folders/Sprites/ChessPieces.yy",
+    "name": "Sprites",
+    "path": "folders/Sprites.yy",
   },
   "resourceVersion": "1.0",
   "name": "spr_king",
