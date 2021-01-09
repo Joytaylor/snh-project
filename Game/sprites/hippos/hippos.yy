@@ -88,8 +88,8 @@
     {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"f8807f0f-a908-4dfa-867b-233bc21b2308","tags":[],"resourceType":"GMImageLayer",},
   ],
   "parent": {
-    "name": "Game",
-    "path": "Game.yyp",
+    "name": "Sprites",
+    "path": "folders/Sprites.yy",
   },
   "resourceVersion": "1.0",
   "name": "hippos",

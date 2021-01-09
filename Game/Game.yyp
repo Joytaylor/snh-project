@@ -1,6 +1,9 @@
 {
   "resources": [
-    {"id":{"name":"hippos","path":"sprites/hippos/hippos.yy",},"order":15,},
+    {"id":{"name":"hippos","path":"sprites/hippos/hippos.yy",},"order":0,},
+    {"id":{"name":"Hippo","path":"objects/Hippo/Hippo.yy",},"order":0,},
+    {"id":{"name":"Snake","path":"objects/Snake/Snake.yy",},"order":2,},
+    {"id":{"name":"snakes","path":"sprites/snakes/snakes.yy",},"order":1,},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
   ],
   "Options": [
