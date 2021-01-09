@@ -80,8 +80,8 @@
     {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"ef991327-4f76-45dc-b5ed-528a4392d8da","tags":[],"resourceType":"GMImageLayer",},
   ],
   "parent": {
-    "name": "Sprites",
-    "path": "folders/Sprites.yy",
+    "name": "ChessPieces",
+    "path": "folders/Sprites/ChessPieces.yy",
   },
   "resourceVersion": "1.0",
   "name": "spr_bishop",

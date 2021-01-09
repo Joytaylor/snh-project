@@ -96,8 +96,8 @@
     {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"e4dc1f2b-e879-456d-8f3b-3281ec6cac96","tags":[],"resourceType":"GMImageLayer",},
   ],
   "parent": {
-    "name": "Sprites",
-    "path": "folders/Sprites.yy",
+    "name": "ChessPieces",
+    "path": "folders/Sprites/ChessPieces.yy",
   },
   "resourceVersion": "1.0",
   "name": "spr_pawn",

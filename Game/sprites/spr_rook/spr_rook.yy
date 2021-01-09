@@ -68,8 +68,8 @@
     {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"b689bf86-74f7-416c-ace8-cbfacf92a983","tags":[],"resourceType":"GMImageLayer",},
   ],
   "parent": {
-    "name": "Sprites",
-    "path": "folders/Sprites.yy",
+    "name": "ChessPieces",
+    "path": "folders/Sprites/ChessPieces.yy",
   },
   "resourceVersion": "1.0",
   "name": "spr_rook",
