@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "snakes",
-    "path": "sprites/snakes/snakes.yy",
+    "name": "hero",
+    "path": "sprites/hero/hero.yy",
   },
   "solid": false,
   "visible": true,
@@ -24,11 +24,11 @@
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "Objects",
-    "path": "folders/Objects.yy",
+    "name": "Sprites",
+    "path": "folders/Sprites.yy",
   },
   "resourceVersion": "1.0",
-  "name": "Snake",
+  "name": "Hero",
   "tags": [],
   "resourceType": "GMObject",
 }
