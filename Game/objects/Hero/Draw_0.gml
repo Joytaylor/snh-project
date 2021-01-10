@@ -1,3 +1,3 @@
 /// @description Insert description here
 // You can write your code in this editor
-draw_sprite(sprite_index, 1, x+xpos, y+ypos);
+draw_sprite(sprite_index, 0, x+xpos, y+ypos);

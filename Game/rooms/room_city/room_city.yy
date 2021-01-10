@@ -69,7 +69,7 @@
   },
   "parent": {
     "name": "Rooms",
-    "path": "folders/Rooms.yy",
+    "path": "folders/Objects/Rooms.yy",
   },
   "resourceVersion": "1.0",
   "name": "room_city",
