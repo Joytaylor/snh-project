@@ -7,4 +7,4 @@ menu[2] = "Quit"
 mpos =0
 dis = 32
 
-audio_play_sound(MenuMusic, 1, true )
+audio_play_sound(MenuMusic, 1, true)
