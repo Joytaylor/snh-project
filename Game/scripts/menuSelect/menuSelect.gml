@@ -3,9 +3,14 @@
 function menuSelect(){
 	switch(mpos){
 		case 0:{
-			room_goto_next()
+			room_goto_next();
 		break;
 		}
+		case 1:{
+			room_goto(CharSelect);
+			break;
+		}
+		
 		case 2:{
 			game_end();
 			break;

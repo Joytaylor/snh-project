@@ -220,7 +220,7 @@
   },
   "parent": {
     "name": "rooms_PixelPackTOPDOWN8BIT",
-    "path": "folders/Rooms/rooms_PixelPackTOPDOWN8BIT.yy",
+    "path": "folders/Objects/Rooms/rooms_PixelPackTOPDOWN8BIT.yy",
   },
   "resourceVersion": "1.0",
   "name": "Rm_ChessBoard",

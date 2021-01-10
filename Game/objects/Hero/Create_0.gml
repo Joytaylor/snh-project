@@ -3,6 +3,4 @@
 xpos = 0
 ypos = 0
 
-
-
-audio_play_sound(PlayerDeathSound, 2, false)
+sObj = hero
