@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "sCol",
-    "path": "sprites/sCol/sCol.yy",
+    "name": "Sprite133",
+    "path": "sprites/Sprite133/Sprite133.yy",
   },
   "solid": true,
   "visible": true,

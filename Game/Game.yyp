@@ -99,6 +99,7 @@
     {"id":{"name":"spr_pawn","path":"sprites/spr_pawn/spr_pawn.yy",},"order":2,},
     {"id":{"name":"HEROS_PixelPackTOPDOWN8BIT_Dog_Attack_U","path":"sprites/HEROS_PixelPackTOPDOWN8BIT_Dog_Attack_U/HEROS_PixelPackTOPDOWN8BIT_Dog_Attack_U.yy",},"order":2,},
     {"id":{"name":"HEROS_PixelPackTOPDOWN8BIT_Dog_Death","path":"sprites/HEROS_PixelPackTOPDOWN8BIT_Dog_Death/HEROS_PixelPackTOPDOWN8BIT_Dog_Death.yy",},"order":3,},
+    {"id":{"name":"Sprite133","path":"sprites/Sprite133/Sprite133.yy",},"order":133,},
     {"id":{"name":"HEROS_PixelPackTOPDOWN8BIT_Dog_Hurt_D","path":"sprites/HEROS_PixelPackTOPDOWN8BIT_Dog_Hurt_D/HEROS_PixelPackTOPDOWN8BIT_Dog_Hurt_D.yy",},"order":4,},
     {"id":{"name":"HEROS_PixelPackTOPDOWN8BIT_Dog_Hurt_R","path":"sprites/HEROS_PixelPackTOPDOWN8BIT_Dog_Hurt_R/HEROS_PixelPackTOPDOWN8BIT_Dog_Hurt_R.yy",},"order":5,},
     {"id":{"name":"HEROS_PixelPackTOPDOWN8BIT_Dog_Hurt_U","path":"sprites/HEROS_PixelPackTOPDOWN8BIT_Dog_Hurt_U/HEROS_PixelPackTOPDOWN8BIT_Dog_Hurt_U.yy",},"order":6,},

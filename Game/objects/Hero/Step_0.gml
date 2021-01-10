@@ -7,10 +7,7 @@ moveUp += max(keyboard_check_pressed(vk_down), keyboard_check_pressed(ord("S")),
 moveRight -= max(keyboard_check_pressed(vk_left), keyboard_check_pressed(ord("A")), 0);
 moveRight += max(keyboard_check_pressed(vk_right), keyboard_check_pressed(ord("D")), 0);
 
-layerId = layer_get_id("Collision");
-tiles = layer_tilemap_get_id(layerId);
 
-show_debug_message(tilemap_get_at_pixel(tiles, xpos + 16, mouse_y));
 
 
 // If there is no collision
@@ -35,7 +32,7 @@ if (moveUp != 0) {
 */
 
 if (moveRight > 0) {
-	if (place_free(x +16, ypos)) {
+	if (instance_place(x +16, ypos, oCol)== noone) {
 		xpos += 16*moveRight;
 	}
 	else {
@@ -44,7 +41,7 @@ if (moveRight > 0) {
 }
 
 if (moveRight < 0) {
-	if (place_free(x -16, ypos)) {
+	if (instance_place(x -16, ypos, oCol) == noone ) {
 		xpos += 16*moveRight;
 	}
 	else {
@@ -53,7 +50,7 @@ if (moveRight < 0) {
 }
 
 if (moveUp > 0) {
-	if (place_free(xpos, ypos + 16)) {
+	if (instance_place(xpos, ypos + 16,oCol) ==noone) {
 		ypos += 16*moveUp;
 	}
 	else {
@@ -61,7 +58,7 @@ if (moveUp > 0) {
 	}
 }
 if (moveUp < 0) {
-	if (place_free(xpos, ypos - 16)) {
+	if (instance_place(xpos, ypos - 16, oCol)==noone) {
 		ypos += 16*moveUp;
 	}
 	else {
